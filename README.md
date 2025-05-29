@@ -1,4 +1,3 @@
-# Car-Analysis-Dashboard-
 # Automobile Market Research Analysis (Interactive Dashboard creation using Power Bi)
 ## Project Objective
 The objective of this project is to analyze car manufacturers based on the features offered in their various models. By identifying models with the most preferred features, the project aims to rank car makers according to consumer feature preferences. This analysis will help stakeholders understand market trends, customer priorities, and which brands are leading in delivering feature-rich vehicles.
